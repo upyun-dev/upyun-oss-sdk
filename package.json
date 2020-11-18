@@ -1,6 +1,6 @@
 {
   "name": "upyun-oss-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "又拍云oss云存储sdk",
   "main": "index.js",
   "author": "bo.yang <bo.yang@upai.com>",
